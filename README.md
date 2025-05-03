@@ -1,7 +1,7 @@
 # DENFNC
 ---
 ☕ When I’m not coding, I’m perfecting my latte art
-### Tech Stack
+### ✨ Tech Stack
 
 ```go
 const DENFNC = {
@@ -30,7 +30,6 @@ Sitting at the keyboard alone, I manage the bytes of my computer.
 ----
 ### 🧿 Connect with the Tower
 
-- Discord: nancyiess
 - Telegram: [@denfnc](https://t.me/defnc)  
 - Website: *Someday there will be*😂
 
