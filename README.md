@@ -1,16 +1,19 @@
-## Hi there 👋
+# DENFNC
+---
+☕ When I’m not coding, I’m perfecting my latte art
+### Tech Stack
 
-<!--
-**DENFNC/DENFNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+const DENFNC = {
+	code: ["Go", "Python", "HTML/CSS"]
+	tools: ["PostgreSQL", "Linux", "Redis"]
+	vibes: "I love everything related to technology and I dream of creating something great!"
+}
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☠️ Philosophy
+
+>Reality is but a canvas shaped by our wildest intentions.
+
+Sitting at the keyboard alone, I manage the bytes of my computer.
