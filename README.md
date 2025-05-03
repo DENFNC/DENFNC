@@ -34,4 +34,4 @@ Sitting at the keyboard alone, I manage the bytes of my computer.
 - Website: *Someday there will be*😂
 
 ---
-![Go vibe](https://github.com/DENFNC/DENFNC/blob/main/photo_2025-05-01_19-53-43.jpg)
+![Go vibe](https://github.com/DENFNC/DENFNC/blob/main/photo_2025-05-01_19-53-43%20(1).jpg)
