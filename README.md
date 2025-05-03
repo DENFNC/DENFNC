@@ -8,7 +8,6 @@ const DENFNC = {
 	code: ["Go", "Python", "HTML/CSS"]
 	tools: ["PostgreSQL", "Linux", "Redis"]
 	vibes: "I love everything related to technology and I dream of creating something great!"
-	
 }
 ```
 
