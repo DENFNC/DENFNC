@@ -30,7 +30,7 @@ Sitting at the keyboard alone, I manage the bytes of my computer.
 ----
 ### 🧿 Connect with the Tower
 
-- Telegram: [@denfnc](https://t.me/defnc)  
+- Telegram: [@denfnc](https://t.me/denfnc)  
 - Website: *Someday there will be*😂
 
 ---
